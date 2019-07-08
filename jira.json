@@ -7,6 +7,10 @@
 	  "vType": "text",
 	  "required": 1
 	},
+	"id": {
+	  "vType": "id",
+	  "required": 1
+	},
 	"total": {
 	  "vType": "int",
 	  "required": 1
