@@ -77,6 +77,10 @@
 		  },
 		  "id": {
 			"vType": "id"
+		  },
+		  "colorName": {
+			"vType": "text",
+			"required": 1
 		  }
 		},
 		"assignee": {
