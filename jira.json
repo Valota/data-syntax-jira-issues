@@ -80,7 +80,7 @@
 		  },
 		  "colorName": {
 			"vType": "text",
-			"required": 1
+			"required": 0
 		  }
 		},
 		"assignee": {
